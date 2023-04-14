@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Images",
+			"path": "."
+		},
+		{
+			"name": "Songs_Statistics",
+			"path": "../../../Documents/Cursos de Platzi/Songs_Statistics"
+		}
+	],
+	"settings": {}
+}
